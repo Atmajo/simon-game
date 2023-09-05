@@ -7,3 +7,5 @@
 3. Remember the last steps
 
 4. If answered wrong, press any key to restart 
+
+Play the game here: www.simon-game.rf.gd
