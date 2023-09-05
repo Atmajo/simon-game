@@ -8,4 +8,4 @@
 
 4. If answered wrong, press any key to restart 
 
-Play the game here: simon-game.rf.gd
+Play the game here: http://simon-game.rf.gd
