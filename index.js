@@ -81,5 +81,6 @@ function animatePress(currentColour){
 function startOver(){
   level=0;
   started=false;
-  userClickedPattern = []
+  gamePat = [];
+  userClickedPattern = [];
 }
